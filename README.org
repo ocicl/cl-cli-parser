@@ -1,0 +1,10 @@
+* cl-cli-parser
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-cli-parser/cl-cli-parser.git   |
+| commit  |   |
+| systems | cl-cli-parser |
+|---------+-------------------------------------------|
+
