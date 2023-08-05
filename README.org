@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/cl-cli-parser/cl-cli-parser.git   |
-| commit  |   |
-| systems | cl-cli-parser |
-|---------+-------------------------------------------|
+25e9b30---------+-------------------------------------------|
+25e9b30 source  | git:https://gitlab.common-lisp.net/cl-cli-parser/cl-cli-parser.git   |
+25e9b30 commit  |   |
+25e9b30 systems | cl-cli-parser |
+25e9b30---------+-------------------------------------------|
 
