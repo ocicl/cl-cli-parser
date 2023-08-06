@@ -5,5 +5,5 @@
 |---------+--------------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/cl-cli-parser/cl-cli-parser.git |
 | commit  | 25e9b30                                                            |
-| systems | cl-cli-parser                                                      |
+| systems | cli-parser                                                         |
 |---------+--------------------------------------------------------------------|
